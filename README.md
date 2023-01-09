@@ -1,4 +1,4 @@
-# moult_phenology
+# Moult phenology
 Code for simulation studies and analyses for the manuscript 'Bayesian inference for models of moult duration and timing' 
 
 The subdirectories correspond to analyses in the following manuscript sections
