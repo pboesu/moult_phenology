@@ -1,8 +1,9 @@
 # Moult phenology
-Code for simulation studies and analyses for the manuscript 'Bayesian inference for models of moult duration and timing' 
+Code for simulation studies and analyses for the manuscript "Extended molt phenology models improve inferences about molt duration and timing" by Philipp H. Boersch-Supan, Hugh J. Hanmer & Robert A. Robinson.
 
 The subdirectories correspond to analyses in the following manuscript sections
 
+- `AMRE_example`: Worked example using real-world American Redstart data
 - `misclassified_ON`: Misclassification of non-moulting individuals
 - `sampling_bias_mk2`: Constant moult-dependent sampling bias simulation study
 - `sigma_tau_tradeoffs`: Assessment of parameter uncertainty in the Type 3 model
